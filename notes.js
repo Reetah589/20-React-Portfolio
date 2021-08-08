@@ -6,3 +6,5 @@
 // recloning and reinstalling fresh basically
 
 // I am going to keep coding and ask TA's for help during office hours.
+
+// Cut and pasted the src temp folder out, commented out import codes. 
